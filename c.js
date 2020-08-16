@@ -1,0 +1,1 @@
+console.log('xiaowang创建c.js')
